@@ -1,0 +1,31 @@
+_repo: Supplement-to-Animal-Sanctuaries-in-LabradorConservation-in-January-1911_15134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, William Charles Henry
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '986'
+    url: http://www.gutenberg.org/2009/agents/986
+description: ''
+gutenberg_bookshelf: Ecology
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labrador (N.L.) -- Economic conditions'
+- !lcc 'HV'
+- !lcsh 'Canada. Commission of Conservation'
+- !lcsh 'Animal welfare'
+title: "Supplement to Animal Sanctuaries in Labrador\r\nSupplement to an Address Presented\
+  \ by Lt.-Colonel William Wood, F.R.S.C. Before the Second Annual Meeting of the\
+  \ Commission of Conservation in January, 1911"
+url: http://www.gutenberg.org/ebooks/15134
